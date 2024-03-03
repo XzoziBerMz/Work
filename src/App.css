@@ -1,10 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Itim&display=swap');
 .App {
   text-align: center;
 }
 
+.f-itim {
+  font-family: 'Itim', cursive;
+  font-size: 30px;
+}
+
 .App-logo {
-  height: 40vmin;
+  height: 20vmin;
   pointer-events: none;
+}
+
+span {
+  margin-top: 20px;
 }
 
 @media (prefers-reduced-motion: no-preference) {
@@ -14,7 +24,7 @@
 }
 
 .App-header {
-  background-color: #282c34;
+  background-color: rgb(165, 55, 255);
   min-height: 100vh;
   display: flex;
   flex-direction: column;

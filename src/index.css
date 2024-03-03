@@ -11,3 +11,12 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+span {
+  color: rgb(0, 0, 0);
+  font-size: 25px;
+}
+
+.t-green {
+  color: green;
+}
